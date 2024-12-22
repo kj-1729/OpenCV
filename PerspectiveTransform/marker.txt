@@ -1,0 +1,20 @@
+shape	seqno	cx	cy	wx0	wy0	wx	wy	note	flg_marker
+rectangle1	1	525	375	0	0	0	0	upperleft	1
+rectangle1	6	1233	340	52.5	0	525	0	upperright	1
+rectangle1	5	612	800	0	68	0	680	bottomleft	1
+rectangle2	13	1112	375	36	13.85	360	138.5	upperleft	
+rectangle2	7	1325	366	52.5	13.85	525	138.5	upperright	
+rectangle2	14	1528	520	36	54.15	360	541.5	bottomleft	
+rectangle2	12	1811	490	52.5	54.15	525	541.5	bottomright	1
+rectangle3	15	1354	394	47	24.85	470	248.5	upperleft	
+rectangle3	8	1420	389	52.5	24.85	525	248.5	upperright	
+rectangle3	16	1555	450	47	43.15	470	431.5	bottomleft	
+rectangle3	11	1633	443	52.5	43.15	525	431.5	bottomright	
+rectangle4	9	1481	402	52.5	30.35	525	303.5	upperleft	
+rectangle4	10	1565	426	52.5	37.65	525	376.5	bottomleft	
+circle1	2	546	478	0	34	0	340	center	
+circle1	3	537	440	0	24.85	0	248.5	circle	
+circle1	4	554	526	0	43.15	0	431.5	circle	
+circle2	17	1359	425	41.5	34	415	340	center	
+circle2	18	1204	407	36	26.68751068	360	266.8751068	circle	
+circle2	19	1346	457	36	41.31248932	360	413.1248932	circle	
